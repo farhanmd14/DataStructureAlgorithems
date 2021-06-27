@@ -1,6 +1,6 @@
 # DataStructureAlgorithems
 This is a Array program using C language 
-* [ArraySorting](#ArraySorting)
+* [ArraySorting](#ArraySorting.c)
 * [ArraySearching](#ArraySearching)
 * [ArrayRevising](#ArrayRevising)
 * [ArrayDeletion](#ArrayDeletion)
