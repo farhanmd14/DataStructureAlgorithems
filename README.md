@@ -6,5 +6,5 @@ This is a Array program using C language
 * [ArrayDeletion](#ArrayDeletion)
 * [ArrayAddElement](#ArrayAddElement)
 
-##This is the Simple Program. I will upload more programms further.
-####Thankyou.
+## This is the Simple Program. I will upload more programms further.
+#### Thankyou.
